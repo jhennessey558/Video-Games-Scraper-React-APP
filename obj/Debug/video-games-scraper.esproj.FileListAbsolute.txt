@@ -1,0 +1,1 @@
+C:\Users\jhenn\source\repos\Video Game Scraper - React\video-games-scraper\video-games-scraper\video-games-scraper\obj\Debug\video-games-scraper.esproj.CoreCompileInputs.cache
